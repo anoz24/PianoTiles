@@ -1,3 +1,2 @@
-# piano_tiles
+# Simple Piano Tiles Application
 
-A new Flutter project.
